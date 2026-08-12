@@ -5,7 +5,7 @@
 <h2>🛠️ Tech Stack</h2>
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,mongodb,mysql,postgres,redis,firebase,git,github,figma&perline=18&size=10"
+    src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,angular,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,firebase,git,github,figma,androidstudio,arduino,c,cs,cpp,fastapi,flask,nestjs,npm,ps,raspberrypi,tensorflow,unity&perline=18&size=10"
     alt="Tech Stack"
   />
 </p>
